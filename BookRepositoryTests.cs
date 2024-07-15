@@ -2,7 +2,6 @@ using LibraryAPI.Data;
 using LibraryAPI.Models;
 using LibraryAPI.Repositories;
 using Microsoft.EntityFrameworkCore;
-using Xunit;
 
 namespace LibraryAPI.Tests
 {
